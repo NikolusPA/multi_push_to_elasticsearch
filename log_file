@@ -1,0 +1,1 @@
+192.168.236.230 - - [15/Apr/2020:09:15:47 +0000] "GET /location/someobject HTTP/1.1" 200 268 "https://crm.microsoft.com/role" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15"
